@@ -45,7 +45,7 @@ The project is structured into three progressive analytical modules:
 3. **[`03_optimal_skills.sql`](./03_optimal_skills.sql) — High-Value Skill Optimization Score**
    - **Goal:** Uncover "sweet spot" skills balancing market availability and high salary.
    - **Methodology:** Implements a custom **Optimal Skill Score**:
-     $$\text{Optimal Score} = \frac{\text{MEDIAN}(\text{salary}) \times \ln(\text{demand\_count})}{1,000,000}$$
+     $$\text{Optimal Score} = \frac{\text{MEDIAN}(\text{salary}) \times \ln(\text{demand count})}{1,000,000}$$
 
 ---
 
