@@ -26,7 +26,7 @@
 .read /tmp/03_create_flat_mart.sql
 
 -- -- Step 4: Mart - Create skills demand mart
--- .read /tmp/04_create_skills_mart.sql
+.read /tmp/04_create_skills_mart.sql
 
 -- -- Step 5: Mart - Create priority mart
 -- .read /tmp/05_create_priority_mart.sql
