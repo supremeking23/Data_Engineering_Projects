@@ -29,13 +29,13 @@
 .read /tmp/04_create_skills_mart.sql
 
 -- -- Step 5: Mart - Create priority mart
--- .read /tmp/05_create_priority_mart.sql
+.read /tmp/05_create_priority_mart.sql
 
 -- -- Step 6: Mart - Update priority mart
--- .read 06_update_priority_mart.sql
+.read /tmp/06_update_priority_mart.sql
 
 -- -- Step 7: Mart - Create company prospecting mart
--- .read 07_create_company_mart.sql
+-- .read /tmp/07_create_company_mart.sql
 
 -- -- Final verification
 -- SELECT '=== Pipeline Build Complete ===' AS status;
